@@ -2,7 +2,7 @@
 date: 2023-03-11T02:11:38Z
 hero_image: "/content/images/bloody-png.webp"
 title: Quick Summary of M9E Community
-author: Robert Thoreau
+author: Anson Aswat
 
 ---
 I think the Master 9 Eyes is one of the best communities in the NFT space. I’ve been a community member for about a month; since joining, they’ve given so much back to the community. There have been Comic contests, giveaways of other NFTs, ongoing questing for rewards that any community member can be a part of and so much more.
