@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<h5 class=\"elementor-heading-title elementor-size-default\">I have walked the earth for about 1800 weeks and have been playing video games for as long as I can remember so I am here to tell you more about my awesome hobby.</h5>",
+  "cta": "<p>Check out the stream... <a href=\"https://www.twitch.tv/ansonanimus\" title=\"https://www.twitch.tv/ansonanimus\">https://www.twitch.tv/ansonanimus</a></p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "contact@ansonaswat.com",
+    "twitter_handle": "mransonanimus",
+    "github_handle": "ansonaswat"
   },
   "background_color": "#B1BCBC"
 }
